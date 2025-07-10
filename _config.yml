@@ -1,9 +1,10 @@
 theme: "minimal-mistakes-jekyll"
 title: "My Udemy Courses"
-description: "Learn Data Analyst and Generative AI with my Udemy courses"
+description: "Learn Data Analyst, Generative AI, and Machine Learning with my Udemy courses"
 url: "https://juberrahman.github.io"
 baseurl: ""
 
+# Navigation settings
 nav:
   - text: "Home"
     url: "/"
@@ -12,3 +13,7 @@ nav:
   - text: "Courses"
     url: "/courses/"
 
+# Social links (Optional, adjust if you want to add your social media links)
+social_links:
+  twitter: "https://twitter.com/juberrahman"
+  linkedin: "https://www.linkedin.com/in/juberrahman"
