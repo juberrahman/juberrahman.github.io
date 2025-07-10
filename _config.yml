@@ -1,5 +1,14 @@
 theme: "minimal-mistakes-jekyll"
 title: "My Udemy Courses"
 description: "Learn Data Analyst and Generative AI with my Udemy courses"
-url: "https://your-username.github.io"
+url: "https://juberrahman.github.io"
 baseurl: ""
+
+nav:
+  - text: "Home"
+    url: "/"
+  - text: "About"
+    url: "/about/"
+  - text: "Courses"
+    url: "/courses/"
+
